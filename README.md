@@ -1,12 +1,13 @@
-# birds-eye
+# birds-eye <!-- omit in toc -->
 
-## Table of Contents
-- [Introduction](Introduction)
-- [Dependencies](Dependencies)
+## Table of Contents <!-- omit in toc -->
 
----
+- [1. Introduction](#1-introduction)
+- [2. Dependencies](#2-dependencies)
+  - [2.1 Packages](#21-packages)
+  - [2.2 Pre-trained Models](#22-pre-trained-models)
 
-## Introduction
+## 1. Introduction
 A computer vision project to analyze birds.
 
 A software suite of the following:
@@ -29,31 +30,33 @@ A software suite of the following:
 
 ---
 
-## Dependencies
+## 2. Dependencies
+### 2.1 Packages
 Python 3 - https://www.python.org/downloads/
 
 numpy - https://github.com/numpy/numpy
-- `sudo apt-get install python-numpy`
+   - `sudo apt-get install python-numpy`
+
+Pafy - https://github.com/mps-youtube/pafy
+
+   - `sudo pip install pafy`
 
 openCV - https://github.com/opencv/opencv-python
 
-- `sudo apt-get install python3-openCV`
+   - `sudo apt-get install python3-openCV`
 
 Darknet - https://github.com/AlexeyAB/darknet
 
-- Follow build instructions at the repository
+   - Follow build instructions at the repository
   
-Pafy - https://github.com/mps-youtube/pafy
 
-- `sudo pip install pafy`
-
-### Pre-trained Models
+### 2.2 Pre-trained Models
 
 Some pretrained models are required. These should be added to the root of the project.
 
-- [yolov3.cfg](https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov3.cfg)
+   - [yolov3.cfg](https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov3.cfg)
 
-- [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
+   - [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
 
-- [coco.names](https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/coco.names)
+   - [coco.names](https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/coco.names)
 
