@@ -1,6 +1,15 @@
 # birds-eye
 A computer vision project to analyze birds.
 
+Utilizing:
+openCV -  https://github.com/opencv/opencv-python
+Darknet - https://github.com/AlexeyAB/darknet
+
+Some pretrained models are required. These should be added to the root of the project.
+https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov3.cfg
+https://pjreddie.com/media/files/yolov3.weights
+https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/coco.names
+
 A software suite of the following:
 
 1. Snap:
