@@ -30,13 +30,22 @@ A software suite of the following:
 ---
 
 ## Dependencies
+Python 3 - https://www.python.org/downloads/
+
+numpy - https://github.com/numpy/numpy
+- `sudo apt-get install python-numpy`
+
 openCV - https://github.com/opencv/opencv-python
 
-- `$ sudo apt-get install python3-openCV`
+- `sudo apt-get install python3-openCV`
 
 Darknet - https://github.com/AlexeyAB/darknet
 
 - Follow build instructions at the repository
+  
+Pafy - https://github.com/mps-youtube/pafy
+
+- `sudo pip install pafy`
 
 ### Pre-trained Models
 
