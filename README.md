@@ -6,6 +6,7 @@
 - [2. Dependencies](#2-dependencies)
   - [2.1 Packages](#21-packages)
   - [2.2 Pre-trained Models](#22-pre-trained-models)
+- [3. User Guides](#3-user-guides)
 
 ## 1. Introduction
 A computer vision project to analyze birds.
@@ -26,9 +27,6 @@ A software suite of the following:
 3. Notify:
     1. Provisions for ITTT integration to notify when a bird is at the feeder acompanied by a photo.
        - (Could be user expanded to things like giving your birds a Twitter account.)
-
-
----
 
 ## 2. Dependencies
 ### 2.1 Packages
@@ -60,3 +58,6 @@ Some pretrained models are required. These should be added to the root of the pr
 
    - [coco.names](https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/coco.names)
 
+## 3. User Guides
+
+   - [Snap](https://github.com/alexf4d/birds-eye/blob/main/snap-user-guide.md)
