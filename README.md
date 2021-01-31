@@ -7,6 +7,7 @@
   - [2.1 Packages](#21-packages)
   - [2.2 Pre-trained Models](#22-pre-trained-models)
 - [3. User Guides](#3-user-guides)
+- [4. Educational References](#4-educational-references)
 
 ## 1. Introduction
 A computer vision project to analyze birds.
@@ -61,3 +62,9 @@ Some pretrained models are required. These should be added to the root of the pr
 ## 3. User Guides
 
    - [Snap](https://github.com/alexf4d/birds-eye/blob/main/snap-user-guide.md)
+  
+## 4. Educational References
+
+Here are some references were useful in the development process.
+
+   - [Python: Real Time Object Detection (Image Webcam, Video files) with Yolov3 and OpenCV](https://www.youtube.com/watch?v=1LCb1PVqzeY)
