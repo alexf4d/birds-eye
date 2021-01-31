@@ -65,6 +65,6 @@ Some pretrained models are required. These should be added to the root of the pr
   
 ## 4. Educational References
 
-Here are some references were useful in the development process.
+Here are some references that were useful in the development process.
 
    - [Python: Real Time Object Detection (Image Webcam, Video files) with Yolov3 and OpenCV](https://www.youtube.com/watch?v=1LCb1PVqzeY)
